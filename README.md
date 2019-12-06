@@ -1,3 +1,5 @@
+The package was moved to https://github.com/seznam/ima/tree/master/packages/gulp-task-loader.
+
 # IMA.js-gulp-task-loader
 
 This repository houses the build tasks loader for IMA.js applications.
